@@ -12,7 +12,7 @@ import runtime from 'src/infras/runtime'
 import dock from 'src/infras/dock/interface'
 
 function initInfras() {
-  console.log(111)
+  console.log(222)
   // 框架版本
   global.frameworkVersion = version
 
